@@ -44,7 +44,7 @@ I have chosen to duplicate the following layout from the **Netflix** app:
 
 <img src='https://github.com/ShivaniElitem/Animalflix/blob/master/Netflix.jpg?raw=true' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
-## Video Demo
+## Demo
 
 Here's a GIF and a Screenshot that demos all of the app's implemented features:
 
